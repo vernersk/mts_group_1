@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">pw1</string>
+    <string name="group_name">This is the first application from Group 1: \nDaniels Dementjevs \nRenars Pikalovs \nRoberts Vilcans \nVerners Kviesis</string>
+    <string name="dev_name">The application was developed by Daniels Dementjevs</string>
+</resources>
