@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Dialog</string>
+
+    // FIRST VIEW
+    <string name="first_heading">1-st Activity</string>
+    <string name="btn_go_to_second">Go to 2-nd</string>
+    <string name="btn_dialog">Dialog</string>
+
+    // DIALOG
+    <string name="dialog_heading">1. Group\'s Dialog</string>
+    <string name="member_1">Verners Kviesis</string>
+    <string name="member_2">Daniels Dementjevs</string>
+    <string name="member_3">Renars Pikalovs</string>
+    <string name="member_4">Roberts Vilcans</string>
+    <string name="btn_dialog_close">Close</string>
+    <string name="btn_dialog_okay">OK</string>
+
+    //SECOND VIEW
+    <string name="btn_back">Back</string>
+    <string name="second_heading">2-nd Activity</string>
+</resources>
